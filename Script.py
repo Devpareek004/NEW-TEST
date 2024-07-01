@@ -132,7 +132,7 @@ Nᴀᴍᴇ - {}"""
 
 ✅ इस तरह लिखकर भेजो ✅
 
-👉 Money Heist S01 E03
+👉 Money Heist S01E03
 👉 Kota Factory S02 E05</b>"""
 
     I_CUD_NT = """ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...!"""
@@ -201,7 +201,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href=https://t.me/HMmedia_movies_group>{file_name}</a></b>"""
+    CAPTION = """<b><a href=https://t.me/HMmedia_movie_group>{file_name}</a></b>"""
 
     IMDB_TEMPLATE_TXT = """🍿 Title: <a href={url}>{title}</a>\n🎃 Genres: {genres}\n📅 Year: <a href={url}/releaseinfo>{year}</a>\n⭐ Rating: <a href={url}/ratings>{rating}</a> / 10\n🔉 Audio: हिंदी + English\n\n📕 Story: """
     
